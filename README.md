@@ -1,6 +1,4 @@
 
-# Project description
-
 # example:
 
        from max_num.max import Max
